@@ -1,5 +1,5 @@
 {
-  "name": "pantera-digital/yii2-alfabank-pay",
+  "name": "hilsager/yii2-alfabank-pay",
   "type": "yii2-extension",
   "authors": [
     {
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "pantera\\yii2\\pay\\alfabank\\": ""
+      "hilsager\\yii2\\pay\\alfabank\\": ""
     }
   }
 }

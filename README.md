@@ -2,7 +2,7 @@
 
 ### Установка через композер
 ```
-composer require pantera-digital/yii2-alfabank-pay "@dev"
+composer require hilsager/yii2-alfabank-pay "@dev"
 ```
 
 ### Запустить миграции
